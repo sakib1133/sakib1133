@@ -46,9 +46,9 @@ Final-year B.Tech Computer Science student passionate about Software Development
 
 * Secure School Management Portal (Full-Stack + Docker Deployment)
 * CPU Scheduling Simulator (OS + Algorithm Visualization)
+* Task Manager Application (Docker Compose + Multi-Container Deployment)
 * AWS Docker Deployment Project (Cloud + Container Deployment)
 * CI/CD Pipeline Project (Automation + Deployment Workflow)
-* Mini Kubernetes Project (Container Orchestration Basics)
 * Monitoring Stack Project (Prometheus + Grafana Monitoring)
 
 ---
