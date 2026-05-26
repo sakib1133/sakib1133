@@ -2,7 +2,7 @@
 
 ## About Me
 
-Final-year B.Tech Computer Science student focused on Software Development with practical exposure to DevOps tools and backend technologies.
+Final-year B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
 
 * 🌱 Currently learning Backend Development, Docker, CI/CD, and system design basics
 * 💻 Building full-stack web applications using Node.js, Express.js, and MySQL
@@ -21,7 +21,14 @@ Final-year B.Tech Computer Science student focused on Software Development with 
 * MySQL
 * HTML
 * CSS
-* C / C++
+* C / C
+
+###  Computer Science Fundamentals
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* REST APIs
+* Authentication & RBAC
+* Operating Systems
 
 ### Tools & Technologies (DevOps Exposure)
 
@@ -39,7 +46,10 @@ Final-year B.Tech Computer Science student focused on Software Development with 
 
 * Secure School Management Portal (Full-Stack + Docker Deployment)
 * CPU Scheduling Simulator (OS + Algorithm Visualization)
-* Weather Web Application (API Integration)
+* AWS Docker Deployment Project (Cloud + Container Deployment)
+* CI/CD Pipeline Project (Automation + Deployment Workflow)
+* Mini Kubernetes Project (Container Orchestration Basics)
+* Monitoring Stack Project (Prometheus + Grafana Monitoring)
 
 ---
 
