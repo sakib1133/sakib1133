@@ -21,7 +21,7 @@ Final-year B.Tech Computer Science student passionate about Software Development
 * MySQL
 * HTML
 * CSS
-* C / C
+* C / C++
 
 ###  Computer Science Fundamentals
 * Data Structures & Algorithms
