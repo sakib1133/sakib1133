@@ -1,6 +1,6 @@
-# Hi 👋, I'm Mohd Sakib Malik
+[![MasterHead](https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/icon.png)](https://github.com/gurmej2004-gs)
+# Hi, I'm Mohd Sakib Malik <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
-## About Me
 
 Final-year B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
 
