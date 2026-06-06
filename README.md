@@ -51,10 +51,10 @@ Final-year B.Tech Computer Science student passionate about Software Development
 
 ---
 
-## Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/mohd-sakib-malik-97ab4a283](http://www.linkedin.com/in/mohd-sakib-malik-97ab4a283)
-* GitHub: [www.github.com/in/sakib1133](https://github.com/sakib1133/sakib1133)
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sakib-malik-97ab4a283)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakib1133)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibmalik5347@gmail.com)
 
 <!---
 sakib1133/sakib1133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
