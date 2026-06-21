@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/icon.png)](https://github.com/gurmej2004-gs)
+[![MasterHead](https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/icon.png)](https://github.com/sakib1133)
 # Hi, I'm Mohd Sakib Malik <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
 
@@ -14,12 +14,14 @@ Final-year B.Tech Computer Science student passionate about Software Development
 ## Skills
 
 ### Programming & Development
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ###  Computer Science Fundamentals
 * Data Structures & Algorithms
@@ -42,17 +44,16 @@ Final-year B.Tech Computer Science student passionate about Software Development
 
 ## Projects
 
-* Secure School Management Portal (Full-Stack + Docker Deployment)
-* CPU Scheduling Simulator (OS + Algorithm Visualization)
-* Task Manager Application (Docker Compose + Multi-Container Deployment)
-* AWS Docker Deployment Project (Cloud + Container Deployment)
-* CI/CD Pipeline Project (Automation + Deployment Workflow)
-* Monitoring Stack Project (Prometheus + Grafana Monitoring)
-
----
+1. **[Business Khata App](https://github.com/sakib1133/bussinees-management-app)** (Full-Stack + Progressive Web App + Offline-First)
+2. **[Personal Finance Tracker](https://github.com/sakib1133/personal-finance-tracker)** (Full-Stack + Data Visualization + Real-time Analytics)
+3. **[Secure School Management Portal](https://github.com/sakib1133/Secure-School-Management-Portal)** (Full-Stack + JWT Authentication + RBAC + Docker Deployment)
+4. **[Task Manager DevOps](https://github.com/sakib1133/task-manager-devops)** (Microservices + Docker Compose + Multi-Container Orchestration)
+5. **[CI/CD Pipeline Project](https://github.com/sakib1133/ci-cd-pipeline-project)** (CI/CD Automation + Jenkins + GitHub Integration + Docker Registry)
+6. **[CPU Scheduling Simulator](https://github.com/sakib1133/Process-Scheduling-Algorithm-Visualizer)**(OS Algorithms + Interactive Visualization + Algorithm Comparison + Performance Metrics)
+7. **[AWS Docker Deployment](https://github.com/sakib1133/aws-docker-deployment)** (Cloud Deployment + AWS Services + Container Registry)
 
 ### Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sakib-malik-97ab4a283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sakib-malik-97ab4a283/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakib1133)
 
 <!---
