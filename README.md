@@ -5,7 +5,7 @@
 Final-year B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
 
 * 🌱 Currently learning Backend Development, Docker, CI/CD, and system design basics
-* 💻 Building full-stack web applications using Node.js, Express.js, and MySQL
+* 💻 Building full-stack web applications using Node.js, Express.js, SQlite, PostgreSQL and MySQL
 * 🚀 Interested in scalable backend systems and secure web applications
 * 📫 Reach me at: [sakibmalik5347@gmail.com](mailto:sakibmalik5347@gmail.com)
 
@@ -27,16 +27,17 @@ Final-year B.Tech Computer Science student passionate about Software Development
 * Authentication & RBAC
 * Operating Systems
 
-### Tools & Technologies (DevOps Exposure)
-
-✔ Docker
-✔ CI/CD (Basic Understanding)
-✔ Jenkins (Basic Exposure)
-✔ Prometheus
-✔ Grafana
-✔ Linux
-✔ Git & GitHub
-
+### Tools & Technologies (DevOps & Deployment)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=flat&logo=grafana&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+ 
 ---
 
 ## Projects
