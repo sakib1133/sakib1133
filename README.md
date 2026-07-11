@@ -4,7 +4,7 @@
 
 Final-year B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
 
-* 🌱 Currently learning Backend Development, Docker, CI/CD, and system design basics
+* 🌱 Currently learning Backend Development, Docker, CI/CD, and system design
 * 💻 Building full-stack web applications using Node.js, Express.js, SQlite, PostgreSQL and MySQL
 * 🚀 Interested in scalable backend systems and secure web applications
 * 📫 Reach me at: [sakibmalik5347@gmail.com](mailto:sakibmalik5347@gmail.com)
