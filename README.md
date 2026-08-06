@@ -42,7 +42,7 @@ Final-year B.Tech Computer Science student passionate about Software Development
 
 ## Projects
 
-1. **[Bussinees management app](https://github.com/sakib1133/bussinees-management-app)** (Full-Stack + Progressive Web App + Offline-First)
+1. **[BusinessKhata-Digital Ledger for Traders](https://github.com/sakib1133/bussinees-management-app)** (Full-Stack + Progressive Web App + Offline-First)
 2. **[Personal Finance Tracker](https://github.com/sakib1133/personal-finance-tracker)** (Full-Stack + Progressive Web App + Docker Deployment + Real-time Analytics)
 3. **[Secure School Management Portal](https://github.com/sakib1133/Secure-School-Management-Portal)** (Full-Stack + JWT Authentication + RBAC + Docker Deployment)
 4. **[Task Manager DevOps](https://github.com/sakib1133/task-manager-devops)** (Microservices + Docker Compose + Multi-Container Orchestration)
