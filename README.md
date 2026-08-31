@@ -23,9 +23,9 @@ Final-year B.Tech Computer Science student passionate about Software Development
 ###  Computer Science Fundamentals
 * Data Structures & Algorithms
 * Object-Oriented Programming
+* Operating Systems
 * REST APIs
 * Authentication & RBAC
-* Operating Systems
 
 ### Tools & Technologies (DevOps & Deployment)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
