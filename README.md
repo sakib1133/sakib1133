@@ -2,7 +2,7 @@
 # Hi, I'm Mohd Sakib Malik <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
 
 
-Final-year B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
+Recently graduate B.Tech Computer Science student passionate about Software Development, Backend Engineering, and Full Stack Web Development with practical exposure to DevOps tools and deployment workflows.
 
 * 🌱 Currently learning Backend Development, Docker, CI/CD, and system design
 * 💻 Building full-stack web applications using Node.js, Express.js, SQlite, PostgreSQL and MySQL
